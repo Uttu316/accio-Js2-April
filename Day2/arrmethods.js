@@ -16,3 +16,11 @@ const arrayB = [1, 2, 3];
 const arrayAB = arr.concat(arrayB);
 
 console.log(arr, isPresent, arrayAB);
+//splice
+//slice
+//fill
+//reverse
+//indexOf
+//lastIndexOf
+//join
+//flat
